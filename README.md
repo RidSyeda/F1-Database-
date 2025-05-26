@@ -1,3 +1,2 @@
-# F1-Database-
-Description
+# F1-Database
 For this project, I used the provided F1 dataset in Excel to analyse and visualise data. Using Python packages, I first organised the data into a structured database by connecting it to SQLite. I then worked with the “F1resultdb” package, where modules like F1db.py, Queryf1db.py, and VisQueryF1DB.py helped create a strong foundation for managing and querying the data. By building this modular structure, we could execute complex queries and generate meaningful visualisations through the Main.ipynb notebook. This approach allowed me to analyse race results, driver standings, and team performances efficiently, gaining valuable insights into the F1 championship data.
